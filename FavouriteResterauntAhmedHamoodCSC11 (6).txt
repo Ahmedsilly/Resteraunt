@@ -1,0 +1,171 @@
+<HTML>
+
+<HEAD>
+
+<TITLE TEXT="#FFFFFF" Font> ResterReviews </TITLE>
+
+</HEAD>
+<H1 TEXT="#000000"> 
+<FONT SIZE="+5"> <B>
+ <Center> ResterReviews <Center> 
+</FONT></B>
+</H1>
+<hr size="8" width="90%" color="000000">
+
+<BODY  BODY BGCOLOR="#A95DF6" TEXT="#FFFFFF">
+
+<B>
+<CENTER>
+The 
+<STRIKE> 
+<div> 
+<a href="file:///C:/Users/16475/Downloads/Ahmed%20Hamood%20File%20intro%20csc.bak/sss.HTML">Best</a>
+</div> 
+</STRIKE> Legendary GTA Reviews for You! <CENTER/>
+</B>
+</BODY>
+<hr size="8" width="90%" color="000000">
+<br>
+<br>
+<br>
+<br>
+<IMG SRC="https://qph.fs.quoracdn.net/main-qimg-801ea51cf98f03e9be848b12427e3992" border=2 Align=Left Height=500> 
+<fieldset>
+    <legend>
+	<B>
+            <Font size="+2">
+		<Span style="color:gold"> Why Trust Us? </Span>
+		</Font>
+	</B>
+	</legend>
+    <label>	The best reviews come right to you! We have analyzed and gone through different reviews from customers from all ages. We bring you the top 5 list of restaurants around Brampton, Mississauga, and Caledon. The most exquisite and delicious restaurant which ranges from  Desi to Fast-foods providing you a multicultural experience of deliciousness and excellent customer service. Reviews are based on critique based criterias like price, taste, and reputation to name a few.</label>
+ </fieldset>
+<fieldset>
+<H2>
+<Font size="+4">
+<B>
+The greatest critques, bring you the best food!
+</B>
+</Font>
+</fieldset>
+<div>
+<textarea id="Restaurant information" name="review" rows="4" cols="100">
+Type out some other interesting Restaurants! 
+</textarea>
+<option> Submit option coming soon.... </option>
+</div>
+<br> 
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<IMG SRC="https://sconceandscone.com/wp-content/uploads/2021/01/7a011517-735f-411f-963c-c42ba25c6c2a.jpeg" border=2 Align=Right Height=450 Width=600> 
+<H1 Align="left">
+<B>
+<TT>
+Top 5 Best places to visit in the 
+</TT>
+<Span style="color:gold">
+GTA!
+</Span>
+</B>
+</H1>
+<H2>
+<OL TYPE="I">
+<LI> <a href="http://eddieswoknroll.com/">Eddy's Wok and Woll</a></LI>
+<LI> <a href="https://barbqtonite.com/">BBQ Tonight</a></LI>
+<LI> <a href="http://www.cafedekhan.ca/">Khan Kebab</a></LI>
+<LI> <a href="https://mrosmow.com/shawarma-brampton-sandalwood-conestoga/">Osmows</a></LI>
+<LI> <a href="https://www.nandos.ca/find/restaurants/north-brampton?utm_source=google&utm_medium=mf&utm_campaign=local">Nandos</a></LI>
+</OL>
+</H2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<IMG SRC="https://www.simplyrecipes.com/thmb/t0PHmOn0M5y1qBdcHvbDWs182Kc=/1780x1335/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__12__2017-12-Chicken-Fried-Rice-2-15ac7014b47b40a1a7c7e20a638f4295.jpg" border=2 Align=Right Height=430 Width=600> 
+&#169;
+<H1 TEXT="#000000" Align=center> <b> <Font size="+5">
+Eddy's Wok N Woll
+<hr size="2" width="20%" color="000000">
+</H1> </b> 
+<H2 align=Left>
+<OL Type=A> 
+<LI> Manchurian chicken </LI> <LI> Corn Soup </LI>  <LI> Fried Rice </LI> </H2> </OL> 
+<p align=right> &#169;</p> 
+<hr size="2" width="20%" color="000000"> <H3> <B> Why? </B> </H3> <P> This legendary resteraunts combines chinese and indian goodness together. They provide high quality food with high quality customer service. With affordable prices! </P>
+<hr size="2" width="30%" color="000000">
+<H1 TEXT="#000000" Align=center> <b> <Font size="+5">
+BBQ Tonight
+<hr size="2" width="20%" color="000000">
+</H1> </b> <OL Type=A> <Li> Tandoori Chicken </Li> <Li> Nehari </Li> <Li> BBQ wraps </Li>
+<hr size="2" width="20%" color="000000">
+<H3> <B> Why? </B> </H3>
+<p> BBQ Tonight is the heart and soul of delicious bar-b-que. The amazing aroma of fresh grilled bar-b-que can be viewed while sitting. Also, the great use of spices and sauce is there speciality!
+</P>
+<hr size="2" width="20%" color="000000">
+<H1 TEXT="#000000" Align=center> <b> <Font size="+5">
+khan Kebab 
+<hr size="2" width="20%" color="000000">
+</H1> </b> <OL Type=A> <Li> wraps </Li> <Li> Biryani </Li> <Li> kebabs </Li>
+<hr size="2" width="20%" color="000000">
+<H3> <B> Why? </B> </H3>
+<p> Khan kebab isn't only one of the best pure desi resteraunts in terms of quality and fast delivery to your doors, they also bring great quantity's of food and the best wraps. The wraps come with everything you would want in a meet filled wrap. 
+</P>
+<hr size="2" width="20%" color="000000">
+<H1 TEXT="#000000" Align=center> <b> <Font size="+5">
+Osmows
+<hr size="2" width="20%" color="000000">
+</H1> </b> <OL Type=A> <Li> Chicken on the rocks </Li> <Li> Chicken on the sticks </Li> <Li> Wrap </Li>
+<hr size="2" width="20%" color="000000">
+<H3> <B> Why? </B> </H3>
+<p> The most popular arabic resteraunt in Canada, Osmows. This franchise has developed a addicting wrap, that brings out the arabic and english culture with beef. 
+</P>
+<hr size="2" width="20%" color="000000">
+<H1 TEXT="#000000" Align=center> <b> <Font size="+5">
+Nandos
+<hr size="2" width="20%" color="000000">
+</H1> </b> <OL Type=A> <Li> Perry perry chicken </Li> <Li> garlicbread and fries </Li> <Li> Full piece chicken</Li>
+<hr size="2" width="20%" color="000000">
+<H3> <B> Why? </B> </H3>
+<p> the exquisite sauce that is found in Nandos is mythical. The tender and fresh taste that fills your mouth, is praise worthy. 
+</P>
+<hr size="2" width="20%" color="000000">
+<Br>
+<Br>
+<H1> <B> 3 Honorable Mentions! </B> </H1> 
+
+<H2>
+<OL TYPE="I"> <Align=center>
+<LI> <a href=https://www.royaljasmine.ca/> Royal Jasmine</a></LI>
+<LI> <a href=https://marybrowns.com/> Mary Browns</a></LI>
+<LI> <a href=https://www.karachikitchen.com/> Karachi Kitchen</a></LI>
+</OL>
+</H2>
+<hr size="2" width="20%" color="000000">
+<P> <Align=left> <B> Why? </B> </P>
+
+<Align=Left> <OL Type=A> <LI> Royal Jasmines Manchurian rice </LI> <LI> Mary Browns 8 piece combo </LI> <LI> karachi Kitchen's Butter Chicken</LI> </OL>
+<hr size="2" width="20%" color="000000">
+
+<Fieldset> <Align=middle> All images do not belong to us, and we ensure following copy right protocols. 
+<Br> 
+All content for CSC 11.
+<br>
+&#169;
+</Fieldset> 
+
+</HTML>
